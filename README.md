@@ -1,3 +1,10 @@
+Este proyecto fue realizado por 
+Maria Alejandra Angulo: [Github](https://github.com/marialeang2)
+Juan Diego Lozano: [Github](https://github.com/juanlozano3)
+Francois Morales: [Github](https://github.com/francoismorales)
+Laura Murcia: [Github](https://github.com/lauram354)
+Marco Ramirez: [Github](https://github.com/LilMark0o)
+
 # How to start the repo
 
 Run in your terminal:
@@ -13,7 +20,7 @@ Nuestra aplicación está diseñada para dos tipos de perfiles: usuarios estánd
 
 # Correr el back
 
-La información completa se encuentra en el README del [Repositorio Back](https://github.com/isis3710-uniandes/ISIS3710_202510_S1_E2_Back) 
+La información completa se encuentra en el README del [Repositorio Back](https://github.com/marialeang2/Donaccion-Back) 
 
 # Poblar base de datos
 
