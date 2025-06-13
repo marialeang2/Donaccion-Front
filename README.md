@@ -1,8 +1,13 @@
 Este proyecto fue realizado por 
+
 Maria Alejandra Angulo: [Github](https://github.com/marialeang2)
+
 Juan Diego Lozano: [Github](https://github.com/juanlozano3)
+
 Francois Morales: [Github](https://github.com/francoismorales)
+
 Laura Murcia: [Github](https://github.com/lauram354)
+
 Marco Ramirez: [Github](https://github.com/LilMark0o)
 
 # How to start the repo
